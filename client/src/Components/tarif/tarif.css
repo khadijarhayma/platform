@@ -1,0 +1,85 @@
+.tarif h1{
+    color: #3D407A;
+    margin: 54px 594px;
+    font-size: 3.5rem;
+  
+}
+.tarif h4{
+    margin: 3px 238px;
+    font-size: 1.2rem;
+    color: dimgray;
+}
+.tarif h5{
+    margin: 3px 344px;
+    font-size: 1.3rem;
+    color: dimgray;
+}
+.tarifs{
+    display: flex;
+}
+.tarifs img{
+    width: 357px;
+    height: 299px;
+    margin-left: 119px;
+    margin-top: 43px;
+}
+.apres{
+    display: flex;
+}
+
+
+.avant{
+    display: flex;
+}
+.prix p{
+margin-top: 22px;
+margin-left: 2px;
+color: darkgrey;
+}
+.prix{
+    margin-top: 107px;
+    margin-left: 82px;
+}
+.prix h3{
+    color: dimgray;
+}
+
+
+ .cart31 {
+    background-color: white;
+    width: 645px;
+    height: 333px;
+    border-radius: 9px;
+    border: 1px solid #777;
+    margin-top: -104px;
+    margin-left:-4px;
+    margin-bottom: 10px;
+    
+  } 
+
+  .cart31 h4 {
+    color: rgb(212, 46, 185);
+    font-weight: 100;
+    font-size: 15px;
+    margin-left: 18px;
+    font-weight: 800;
+   
+  }
+  .cart31 h5 {
+    color: dimgray !important;
+    margin: 3px 31px;
+    font-size: 1rem;
+  }
+  .cart31 img {
+    margin-left: 175px;
+    margin-top: 40px;
+  }
+  .kaliss{
+display: flex;
+justify-content: space-around;
+
+    background-color: #3f4079;
+    margin-top: 140px;
+    height: 145px;
+    margin-bottom: 118px;
+  }

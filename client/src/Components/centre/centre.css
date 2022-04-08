@@ -1,0 +1,86 @@
+.filter {
+    margin-top: 20px;
+    width: 1025px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 50px;
+  }
+  .filter input {
+    width: 350px;
+    height: 35px;
+    border-radius: 9px;
+  }
+  .filter img {
+    width: 50%;
+    height: 500px;
+  }
+  .filter h1 {
+    color: #3f4079;
+  }
+  .filter p {
+    color: #3f4079;
+    font-weight: 800;
+  }
+  .profile img {
+    width: 50px;
+    height: 50px;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-right: 15px;
+  }
+  .table-row1 {
+    display: flex;
+    width: 300px;
+    height: 165px;
+    margin-top: 20px;
+    margin-left: -4px;
+    margin-bottom: 50px;
+    border: solid #3f4079;
+    border-radius: 9px;
+  }
+  
+  .mail {
+    display: flex;
+  }
+  .doctorss {
+    display: flex;
+    background-image: url("../../../public/team.jpg");
+    background-repeat: no-repeat;
+    background-position-x: right;
+    flex-direction: row;
+    width: 1246px;
+  }
+  .flter {
+    display: flex;
+  }
+  .fil {
+    height: 50px;
+    margin-left: 20px;
+    width: 696px;
+    display: flex;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+  }
+  .sel {
+    margin-bottom: 20px;
+    margin-left: 160px;
+    margin-top: -19px;
+  }
+  .card {
+    margin-left: 22px;
+    margin-top: 18px;
+  }
+  .card button {
+    background: #ffc909;
+    border-radius: 10px;
+    width: 161px;
+    height: 31px;
+  }
+
+
+  .proffile{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+  }
+  

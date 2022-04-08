@@ -1,0 +1,38 @@
+.compte{
+    display: flex;
+    
+}
+.compte img{
+    width: 50%;
+    height: 500px;
+}
+.question{
+    display: flex;
+    width: 900px;
+}
+.question h2{
+    color: #3f4079;
+    margin-top: 24px;
+    margin-left: 18px;
+    margin-left: 15px;
+}
+.choix{
+    display: flex;
+}
+.bnchoix {
+    display: flex;
+    flex-direction: column;
+    margin-left: -14px;
+    margin-bottom: -175px;
+}
+.connecter{
+    margin-left: 120px;
+}
+.openModalBtn{
+    border: none;
+    background-color: white;
+    border-bottom: 0.2rem solid #3f4079;
+    margin-left: 50px;
+    margin-right: 20px;
+    width: 128px;
+}

@@ -1,0 +1,37 @@
+.cncté{
+    display: flex;
+    flex-direction: column;
+    margin-top: 31px;
+    margin-left: -1px;
+}
+
+.cncté input{
+    width: 300px;
+    height: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 9px;
+    border: 1px solid #DDDDDD;
+    padding: 8px 15px;
+}
+.sante{
+    padding: 10px 20px;
+    margin-bottom: 50px;
+    width: 300px;
+    background: #FFC909;
+    border-radius: 10px;
+    font-weight: normal;
+    font-size: 14px;
+    height: 55px;
+    color: #1B2746;
+    border: 1px solid #FFC909;
+}
+.sante a {
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+
+.sante button {
+    background-color: rgb(212, 46, 185);
+}

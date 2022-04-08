@@ -1,0 +1,45 @@
+.login{
+    display: flex;
+    width: 200px;
+
+}
+.cnct {
+    display: flex;
+    flex-direction: column;
+}
+.cnct input{
+    width: 300px;
+    height: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 9px;
+    border: 1px solid #DDDDDD;
+    padding: 8px 15px;
+    background-color: #3f4079af;
+
+}
+.but{
+    border-radius: 45px;
+    background-color: rgb(212, 46, 185);
+    width: 327px;
+    height: 50px;
+    border: 1px solid #DDDDDD;
+    color: white;
+}
+.inscription{
+    border: none;
+    background-color: white;
+    border-bottom: 0.2rem solid #3f4079;
+    margin-left:188px;
+    margin-right: 20px;
+    width: 128px;
+margin-top: -20px;
+   
+    margin-bottom: 203px;
+}
+.a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.438);
+    margin-top: 20px;
+    margin-left: 32px;
+}

@@ -1,0 +1,15 @@
+.zone h1{
+    color: #3f4079;
+    margin-left: 500px;
+}
+.zone img{
+    width: 470px;
+    height: 400px;
+    margin-left: 424px;
+}
+.zone p{
+    color: #3f4079;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-left: 280px;
+}

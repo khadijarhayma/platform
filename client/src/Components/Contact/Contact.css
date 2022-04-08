@@ -1,0 +1,148 @@
+.about{
+    border: 0.1rem solid #777;
+    width: 254px;
+    height: 460px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.about img{
+    width: 255px;
+    height: 180px;
+}
+.aboutt{
+    display: flex;
+    flex-direction: column;
+  
+}
+.aboutt h3 {
+    font-size: 1.3125rem;
+    color:  #3f4079;
+    border-bottom:0.1rem solid #777;
+    margin-left:10px;
+}
+.aboutt h4{
+    margin-left: 62px;
+}
+.aboutt h6{
+    font-size: 0.875rem;
+    margin-bottom: 3px;
+    margin-left: 77px;
+  
+}
+.aboutt p{
+    color: #777;
+    margin-left: 29px;
+    
+}
+.about a{
+    text-decoration: none;
+    color: rgb(212, 46, 185);
+    margin-left: 61px;
+}
+.about a:hover {
+    color: black;
+}
+
+.appel1{
+    background-color: #3f4079;
+    color: white;
+    border-radius: 9px;
+    width: 682px;
+    height: 400px;
+    margin-top: -135px;
+    margin-left: 130px;
+    margin-bottom: 34px;
+  }
+  .appel1 img{
+    margin-left: 232px;
+    margin-top: 20px;
+  }
+  .appel1 p {
+    margin-left: 109px;
+  }
+  .appel1 h3{
+    margin-left: 200px;
+  }
+  .appel1 button a{
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    font-weight: 800;
+    margin-left: 15px;
+  }
+  .appel1 button{
+        background-color: #74d1c6;
+        border-radius: 45px;
+        margin-left: 252px;
+        width: 177px;
+        height: 50px;
+        border: solid #3f4079;
+        margin-top: 22px;
+  }
+  .appel1 button:hover{
+    background-color: white;
+    color: rgb(212, 46, 185);
+  }
+  .appel1 button a:hover{
+    color: rgb(212, 46, 185);
+  }
+  .cont {
+      display: flex;
+      flex-direction: row;
+  }
+
+  .call{
+      display: flex;
+      flex-direction: column;
+      margin-left: 50px;
+      width: 912px;
+      height: 957px;
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  .callme{
+      width: 675px;
+      height: 600px;
+      margin-left: 80px;
+  }
+  .put {
+      display: flex;
+      flex-direction: column;
+  }
+  .put1{
+      display: flex;
+      justify-content: space-between;
+      margin-top: 15px;
+  }
+  .put2{
+      display: flex;
+      justify-content: space-between;
+      margin-top: 15px;
+      margin-bottom: 15px;
+
+      
+  }
+  .put input{
+      width: 320px;
+      height: 40px;
+      margin-bottom: 15px;
+      
+  }
+  .msg input {
+      width: 675px;
+      height: 100px;
+  }
+  .put button{
+      width: 87px;
+      height: 35px;
+      border-radius: 45px;
+      background-color:rgb(212, 46, 185) ;
+      border:  white;
+  }
+  .put button a{
+      text-decoration: none;
+      color: white;
+  }
+.put button:hover{
+    background-color: #74d1c6;
+}
