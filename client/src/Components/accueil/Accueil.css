@@ -466,3 +466,17 @@ margin-top: 35px;
  justify-content: space-around;
   width: 1272px;
 }
+@media screen and (min-width:1320px){
+  .content {
+    background-color: #3f4079;
+    flex-wrap: wrap;
+  
+}
+}
+@media  screen and (max-width:1030) {
+  .carts{
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+}

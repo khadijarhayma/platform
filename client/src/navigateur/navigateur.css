@@ -67,3 +67,29 @@
   height: 12px;
   border: none;
 }
+
+
+@media screen and (max-width:1120px) {
+  .navigateur-cant{
+    
+    justify-content: space-around;
+
+  }
+  
+}
+@media screen and (max-width:1090px) {
+  .navigateur-cant{
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+  }
+  
+}
+@media screen and (max-width:620px) {
+  .navigateur-cant{
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+  }
+  
+}
